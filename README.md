@@ -66,7 +66,7 @@ results/: Output files from the analysis, including visualizations and model eva
     
     Running the Analysis
     Clone this repository:
-    git clone https://github.com/saqlaino9/Brainwave_Matrix_Intern
+    git clone https://github.com/saqlaino9/Brainwave_Matrix_Intern/blob/main/Amazon_sales_analysis.ipynb
     cd amazon_sales_analysis
 
 
